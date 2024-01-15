@@ -15,7 +15,7 @@ public class Mensaje {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
-        System.out.println(" Bienbenidos a programar");
+        System.out.println("Bienbenidos a programar");
         System.out.println("En java");
         System.out.println("comencemos");
         
