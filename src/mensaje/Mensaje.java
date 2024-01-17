@@ -11,7 +11,7 @@ package mensaje;
 public class Mensaje {
 
     /**
-     * @param args the command line arguments
+     se imprime en pantalla los diferentes mensaje
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo");
